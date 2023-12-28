@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hello webpack!c-sync-loader!b-sync-loader!a-async-loader!additional-async-text")})();

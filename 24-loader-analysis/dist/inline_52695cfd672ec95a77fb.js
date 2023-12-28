@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(JSON.parse('{\r\n    "text": "hello inline-loader"\r\n}').text)})();
